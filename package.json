@@ -1,0 +1,22 @@
+{
+  "name": "a00-kravilla",
+  "version": "1.0.0",
+  "description": "Assignment 00 for COMP 426",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a00-kravilla.git"
+  },
+  "author": "Kishan Babuji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-kravilla/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-kravilla#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
